@@ -2,14 +2,10 @@
 
 ## Setup & Installtion
 
-Make sure you have the latest version of Python and pip installed.
+Make sure you have the latest version of Unity and Nuitrack.
 
 ```
 Clone the repository
-```
-
-```bash
-pip install -r requirements.txt
 ```
 
 ## Running The App
