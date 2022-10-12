@@ -4,19 +4,16 @@
 
 Make sure you have the latest version of Unity and Nuitrack.
 
-```
-Clone the repository
+```bash
+https://nuitrack.com/
 ```
 
 ## Running The App
 
 ```bash
-python app.py
+Descargar el respositorio y abrirlo en Unity
 ```
 
-## Viewing The App
-
-Go to `http://127.0.0.1:5000`
 
 ## Video
 A full Demo of this project can be found on Drive: [Drive](https://drive.google.com/file/d/1Na8AxznXK5D9_S-QgSAcVOjFgFlImtRy/view?usp=sharing)
