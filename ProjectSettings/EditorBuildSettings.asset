@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/UserSelectScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/K2Examples/KinectDemos/FittingRoomDemo/SelectMenu.unity
+    guid: 0a2647e7741827a4e92259228d48cfb2
+  - enabled: 1
+    path: Assets/K2Examples/KinectDemos/FittingRoomDemo/KinectFittingRoom1.unity
+    guid: f317f1027038c7741a987b19eeae434a
+  - enabled: 1
+    path: Assets/K2Examples/KinectDemos/FittingRoomDemo/KinectFittingRoom_model.unity
+    guid: 3336c9223b522fa488f26f0ccf56ba64
   m_configObjects: {}
